@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/seekinfox/single-price-grid-componant-master](https://github.com/seekinfox/single-price-grid-componant-master)
-- Live Site URL: [https://seekinfox.github.io/single-price-grid-componant-master/(https://seekinfox.github.io/single-price-grid-componant-master/)
+- Live Site URL: [https://seekinfox.github.io/single-price-grid-componant-master/](https://seekinfox.github.io/single-price-grid-componant-master/)
 
 ### Built with
 
